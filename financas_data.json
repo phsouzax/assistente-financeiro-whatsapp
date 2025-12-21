@@ -1,0 +1,20 @@
+{
+  "usuario_atual": "Principal",
+  "usuarios": {
+    "Principal": {
+      "saldo": 0,
+      "vr": 0,
+      "va": 0,
+      "transacoes": [],
+      "contas_fixas": []
+    },
+    "Iara": {
+      "saldo": 0,
+      "vr": 0,
+      "va": 0,
+      "transacoes": [],
+      "contas_fixas": []
+    }
+  },
+  "mes_atual": "2025-12"
+}
